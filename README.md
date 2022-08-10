@@ -1,7 +1,7 @@
 # Snakes Cafe
 
 **Author**: Tanesha Brester
-[PR URL]())
+[PR URL](https://github.com/taneshaa/snakes-cafe))
 
 ## Overview
 User can submit their order from the default menu. Upon submission, the user is able to see their order and how many of the food item they have ordered.
